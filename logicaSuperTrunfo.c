@@ -6,10 +6,15 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-    printf("Hello World");
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
+     char estado[2], cidade[30], codCarta[2];
+     double populacao, area, PIB;
+     int pontosTuristicos;
 
+    
+
+    
     
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
